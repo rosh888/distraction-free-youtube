@@ -1,4 +1,4 @@
-# distraction-free-youtube
+# Distraction-free-YouTube
 A simple HTML based project designed to provide a distraction-free video viewing experience:
 About the Project
 This project offers a clean and minimal alternative to traditional video platforms by focusing only on selected content categories. Instead of endless recommendations and distracting elements, users can directly access videos from predefined categories.
